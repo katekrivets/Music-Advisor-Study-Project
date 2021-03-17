@@ -1,0 +1,23 @@
+advisor/Utils.java
+ advisor.Utils
+advisor/api/SpotifyAPI.java
+ advisor.api.SpotifyAPI
+advisor/Client.java
+ advisor.Client
+advisor/InputReader.java
+ advisor.InputReader
+advisor/api/API.java
+ advisor.api.API
+advisor/Main.java
+ advisor.Main
+advisor/AdvisorModel.java
+ advisor.AdvisorModel
+advisor/Config.java
+ advisor.Config
+advisor/api/APIDecorator.java
+ advisor.api.APIDecorator
+advisor/Server.java
+ advisor.Server
+ advisor.Server$1
+advisor/api/SecuredAPI.java
+ advisor.api.SecuredAPI
